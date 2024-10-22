@@ -6,4 +6,4 @@ This project is open source by nature, but supported by @interpretica-io in term
 
 ### Contributor's agreement for all repositories
 
-By contributing to any `isabelle-platform` of repositories, you explicitly agree to pass copyrights for these contributions to platform's developer, @maximmenshikov.
+By contributing to any `isabelle-platform` of repositories, you explicitly agree to pass copyrights for these contributions to platform's developer, **[@maximmenshikov](https://github.com/maximmenshikov)**.
